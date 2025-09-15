@@ -1,0 +1,12 @@
+biopython==1.76
+ete3
+kiwisolver
+matplotlib
+numpy
+pandas
+scikit-image
+scikit-learn
+scipy
+seaborn
+urllib3
+esm
