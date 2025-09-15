@@ -1,7 +1,7 @@
 # TRPase VAE Mining and Visualization
 This repository contains all data and code to replicate the Variational Autoencoder (VAE) mining study for visualizing the sequence landscape of TRPases and identifying novel candidates as described in de Boer et al. 
 
-This study was based on the work done by Kohout et al., with all VAE training following the specifics of their original pipeline. 
+This study was based on the work done by [Kohout et al.](https://chemrxiv.org/engage/chemrxiv/article-details/661fe2fe418a5379b00a4f9a), with all VAE training following the specifics of their original pipeline. For a detailed description of the pipeline, please refer to [the original GitHub repository](https://github.com/loschmidt/vae-dehalogenases)
 
 To run the code, please create a conda environment using the requirement file:
 ```bash
