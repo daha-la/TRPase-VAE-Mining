@@ -11,8 +11,8 @@ number of sequences: 5852
         MSA sequences excluded because of the gaps: {}
 ================================================================================
 Trimmed MSA has 5852 sequences and the width is 455
-Trimmed MSA is stored at ../results/EnzymeMiner_TRPase_trim_400_600\msa\trimmed_msa.fasta
+Trimmed MSA is stored at ../results/EnzymeMiner_TRPase_trim_400_600/msa/trimmed_msa.fasta
 ================================================================================
  MSA preprocessing : Sequence keys and training dictionary storedTraining MSA has 5852 sequences and the width is 455
-Training MSA is stored at ../results/EnzymeMiner_TRPase_trim_400_600\msa\training_msa.fasta
+Training MSA is stored at ../results/EnzymeMiner_TRPase_trim_400_600/msa/training_msa.fasta
 ================================================================================

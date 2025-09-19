@@ -26,9 +26,9 @@
         "percentage_of_seq_for_evaluation": 5
     },
     "hmm": {
-        "muscle_path": "/Users/dahala/GitHub/VAE-enzymes/alignments/muscle",
-        "hmmer_path": "/Users/dahala/Projects/HMMER/bin",
-        "msa_fasta": "/Users/dahala/GitHub/VAE-enzymes/random_data/TRPase/Trim_400_600.fasta",
+        "muscle_path": "../../alignments/muscle3.8.31",
+        "hmmer_path": "../../alignments/HMMER/bin",
+        "msa_fasta": "../../extra_data/Trim_400_600.fasta",
         "msa_name": "EnzymeMiner_TRPase_trim_400_600",
         "hmm_model": "EnzymeMiner_TRPase_trim_400_600"
     }

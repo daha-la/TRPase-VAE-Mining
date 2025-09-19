@@ -4,7 +4,7 @@
 # Freely distributed under the BSD open source license.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # input alignment file:             ../../alignments/muscle_outputs/EnzymeMiner_TRPase_trim_400_600.afa
-# output HMM file:                  ../../hmm_model/EnzymeMiner_TRPase_trim_400_600.hmm
+# output HMM file:                  ../../hmm/EnzymeMiner_TRPase_trim_400_600.hmm
 # input alignment is asserted as:   protein
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -12,4 +12,4 @@
 #---- -------------------- ----- ----- ----- -------- ------ -----------
 1     EnzymeMiner_TRPase_trim_400_600  5852  1597   687     4.29  0.590 
 
-# CPU time: 0.38u 0.01s 00:00:00.39 Elapsed: 00:00:00.48
+# CPU time: 0.37u 0.01s 00:00:00.38 Elapsed: 00:00:00.40
