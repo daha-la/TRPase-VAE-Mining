@@ -1,0 +1,18 @@
+MSA in ../datasets/EnzymeMiner_TRPase_trim_bacterial_fix.afa loaded
+number of sequences: 423
+================================================================================
+ MSA Preprocessing 
+ MSA trimming: 
+        Raw MSA width                                     : 459
+        Number of positions occupied in treemmers         : 453
+        Sequences excluded due to non essential AA        : 0
+        Rich Amino Acids columns added into the train MSA : 1
+        Query columns excluded having gaps:
+        MSA sequences excluded because of the gaps: {}
+================================================================================
+Trimmed MSA has 423 sequences and the width is 454
+Trimmed MSA is stored at ../results/EnzymeMiner_TRPase_trim_bacterial/msa/trimmed_msa.fasta
+================================================================================
+ MSA preprocessing : Sequence keys and training dictionary storedTraining MSA has 423 sequences and the width is 454
+Training MSA is stored at ../results/EnzymeMiner_TRPase_trim_bacterial/msa/training_msa.fasta
+================================================================================

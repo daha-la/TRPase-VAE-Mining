@@ -19,7 +19,8 @@ class HMMmodule:
     def MSA_create(self):
         if not os.path.exists(f'alignments/muscle_outputs//{self.msa_name}.afa'):
             print('Creating MSA using MUSCLE...')
-            subprocess.run(f'{self.muscle_path} -align {self.msa_fasta} -output ../../alignments/muscle_outputs/{self.msa_name}.afa > ../../alignments/muscle_outputs/muscle_{self.msa_name}.log', shell=True, executable="/bin/zsh")
+            #subprocess.run(f'{self.muscle_path} -align {self.msa_fasta} -output ../../alignments/muscle_outputs/{self.msa_name}.afa > ../../alignments/muscle_outputs/muscle_{self.msa_name}.log', shell=True, executable="/bin/zsh") # MUSCLE 5
+            subprocess.run(f'{self.muscle_path} -in {self.msa_fasta} -out ../../alignments/muscle_outputs/{self.msa_name}.afa > ../../alignments/muscle_outputs/muscle_{self.msa_name}.log', shell=True, executable="/bin/zsh") # MUSCLE 3.8.1551
 
     def build(self):
         if not os.path.exists(f'hmm_model/{self.hmm_model}.hmm'):
