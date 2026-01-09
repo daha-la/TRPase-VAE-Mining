@@ -1,0 +1,28 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+1188_RMG28746_1 branch #00EAFF normal 2
+1159_RLE90674_1 branch #00EAFF normal 2
+
+5825_XP_015776371_1 branch #FF0000 normal 2
+74_BAN40838_1 branch #FF0000 normal 2
+719_ORY78773_1 branch #FF0000 normal 2
+928_PRD32036_1 branch #FF0000 normal 2
+1020_RBR22522_1 branch #FF0000 normal 2
+
+3487_WP_071313236_1 branch #FEBE10 normal 2
+2150_WP_019211973_1 branch #FEBE10 normal 2
+14_AAB24234_1 branch #FEBE10 normal 2
+4587_WP_108870457_1 branch #FEBE10 normal 2
+4426_WP_104148942_1 branch #FEBE10 normal 2
+4245_WP_101260018_1 branch #FEBE10 normal 2
+3963_WP_092012008_1 branch #FEBE10 normal 2
+4600_WP_109407456_1 branch #FEBE10 normal 2
+1985_WP_012992776_1 branch #FEBE10 normal 2
+5212_WP_131680130_1 branch #FEBE10 normal 2
+1557_WP_001295247_1 branch #FEBE10 normal 2
+89_C3LUI5_S1 branch #FEBE10 normal 2
+
+# Overrides for the two new proteins
+5433_WP_139427101_1 branch #BA55D3 normal 3
+1438_TMB50071_1 branch #FFC0CB normal 3
